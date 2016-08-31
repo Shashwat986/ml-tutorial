@@ -1,4 +1,6 @@
 Machine Learning: A dataset based introduction
 ==============================================
 
-Please open `Introduction.rb`.
+This project will eventually be hosted on HackerRank, but I'm starting it out as a GitHub repository.
+
+Please open `00_introduction.markdown` to get started.
